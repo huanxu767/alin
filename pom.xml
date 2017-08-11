@@ -11,6 +11,7 @@
         <module>web</module>
         <module>design-pattern</module>
         <module>activemq</module>
+        <module>redis</module>
     </modules>
     <name>alin Maven Webapp</name>
 
